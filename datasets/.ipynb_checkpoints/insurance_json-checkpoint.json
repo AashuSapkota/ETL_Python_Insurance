@@ -1,0 +1,3188 @@
+[
+  {
+    "age": 30,
+    "sex": "male",
+    "bmi": 37.43,
+    "children": 3,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 5428.7277
+  },
+  {
+    "age": 18,
+    "sex": "male",
+    "bmi": 38.17,
+    "children": 0,
+    "smoker": "yes",
+    "region": "southeast",
+    "charges": 36307.7983
+  },
+  {
+    "age": 22,
+    "sex": "female",
+    "bmi": 34.58,
+    "children": 2,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 3925.7582
+  },
+  {
+    "age": 23,
+    "sex": "male",
+    "bmi": 35.2,
+    "children": 1,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 2416.955
+  },
+  {
+    "age": 33,
+    "sex": "male",
+    "bmi": 27.1,
+    "children": 1,
+    "smoker": "yes",
+    "region": "southwest",
+    "charges": 19040.876
+  },
+  {
+    "age": 27,
+    "sex": "male",
+    "bmi": 26.03,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 3070.8087
+  },
+  {
+    "age": 45,
+    "sex": "female",
+    "bmi": 25.175,
+    "children": 2,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 9095.06825
+  },
+  {
+    "age": 57,
+    "sex": "female",
+    "bmi": 31.825,
+    "children": 0,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 11842.62375
+  },
+  {
+    "age": 47,
+    "sex": "male",
+    "bmi": 32.3,
+    "children": 1,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 8062.764
+  },
+  {
+    "age": 42,
+    "sex": "female",
+    "bmi": 29,
+    "children": 1,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 7050.642
+  },
+  {
+    "age": 64,
+    "sex": "female",
+    "bmi": 39.7,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 14319.031
+  },
+  {
+    "age": 38,
+    "sex": "female",
+    "bmi": 19.475,
+    "children": 2,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 6933.24225
+  },
+  {
+    "age": 61,
+    "sex": "male",
+    "bmi": 36.1,
+    "children": 3,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 27941.28758
+  },
+  {
+    "age": 53,
+    "sex": "female",
+    "bmi": 26.7,
+    "children": 2,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 11150.78
+  },
+  {
+    "age": 44,
+    "sex": "female",
+    "bmi": 36.48,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 12797.20962
+  },
+  {
+    "age": 19,
+    "sex": "female",
+    "bmi": 28.88,
+    "children": 0,
+    "smoker": "yes",
+    "region": "northwest",
+    "charges": 17748.5062
+  },
+  {
+    "age": 41,
+    "sex": "male",
+    "bmi": 34.2,
+    "children": 2,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 7261.741
+  },
+  {
+    "age": 51,
+    "sex": "male",
+    "bmi": 33.33,
+    "children": 3,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 10560.4917
+  },
+  {
+    "age": 40,
+    "sex": "male",
+    "bmi": 32.3,
+    "children": 2,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 6986.697
+  },
+  {
+    "age": 45,
+    "sex": "male",
+    "bmi": 39.805,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 7448.40395
+  },
+  {
+    "age": 35,
+    "sex": "male",
+    "bmi": 34.32,
+    "children": 3,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 5934.3798
+  },
+  {
+    "age": 53,
+    "sex": "male",
+    "bmi": 28.88,
+    "children": 0,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 9869.8102
+  },
+  {
+    "age": 30,
+    "sex": "male",
+    "bmi": 24.4,
+    "children": 3,
+    "smoker": "yes",
+    "region": "southwest",
+    "charges": 18259.216
+  },
+  {
+    "age": 18,
+    "sex": "male",
+    "bmi": 41.14,
+    "children": 0,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 1146.7966
+  },
+  {
+    "age": 51,
+    "sex": "male",
+    "bmi": 35.97,
+    "children": 1,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 9386.1613
+  },
+  {
+    "age": 50,
+    "sex": "female",
+    "bmi": 27.6,
+    "children": 1,
+    "smoker": "yes",
+    "region": "southwest",
+    "charges": 24520.264
+  },
+  {
+    "age": 31,
+    "sex": "female",
+    "bmi": 29.26,
+    "children": 1,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 4350.5144
+  },
+  {
+    "age": 35,
+    "sex": "female",
+    "bmi": 27.7,
+    "children": 3,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 6414.178
+  },
+  {
+    "age": 60,
+    "sex": "male",
+    "bmi": 36.955,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 12741.16745
+  },
+  {
+    "age": 21,
+    "sex": "male",
+    "bmi": 36.86,
+    "children": 0,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 1917.3184
+  },
+  {
+    "age": 29,
+    "sex": "male",
+    "bmi": 22.515,
+    "children": 3,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 5209.57885
+  },
+  {
+    "age": 62,
+    "sex": "female",
+    "bmi": 29.92,
+    "children": 0,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 13457.9608
+  },
+  {
+    "age": 39,
+    "sex": "female",
+    "bmi": 41.8,
+    "children": 0,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 5662.225
+  },
+  {
+    "age": 19,
+    "sex": "male",
+    "bmi": 27.6,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 1252.407
+  },
+  {
+    "age": 22,
+    "sex": "female",
+    "bmi": 23.18,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 2731.9122
+  },
+  {
+    "age": 53,
+    "sex": "male",
+    "bmi": 20.9,
+    "children": 0,
+    "smoker": "yes",
+    "region": "southeast",
+    "charges": 21195.818
+  },
+  {
+    "age": 39,
+    "sex": "female",
+    "bmi": 31.92,
+    "children": 2,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 7209.4918
+  },
+  {
+    "age": 27,
+    "sex": "male",
+    "bmi": 28.5,
+    "children": 0,
+    "smoker": "yes",
+    "region": "northwest",
+    "charges": 18310.742
+  },
+  {
+    "age": 30,
+    "sex": "male",
+    "bmi": 44.22,
+    "children": 2,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 4266.1658
+  },
+  {
+    "age": 30,
+    "sex": "female",
+    "bmi": 22.895,
+    "children": 1,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 4719.52405
+  },
+  {
+    "age": 58,
+    "sex": "female",
+    "bmi": 33.1,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 11848.141
+  },
+  {
+    "age": 33,
+    "sex": "male",
+    "bmi": 24.795,
+    "children": 0,
+    "smoker": "yes",
+    "region": "northeast",
+    "charges": 17904.52705
+  },
+  {
+    "age": 42,
+    "sex": "female",
+    "bmi": 26.18,
+    "children": 1,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 7046.7222
+  },
+  {
+    "age": 64,
+    "sex": "female",
+    "bmi": 35.97,
+    "children": 0,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 14313.8463
+  },
+  {
+    "age": 21,
+    "sex": "male",
+    "bmi": 22.3,
+    "children": 1,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 2103.08
+  },
+  {
+    "age": 18,
+    "sex": "female",
+    "bmi": 42.24,
+    "children": 0,
+    "smoker": "yes",
+    "region": "southeast",
+    "charges": 38792.6856
+  },
+  {
+    "age": 23,
+    "sex": "male",
+    "bmi": 26.51,
+    "children": 0,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 1815.8759
+  },
+  {
+    "age": 45,
+    "sex": "female",
+    "bmi": 35.815,
+    "children": 0,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 7731.85785
+  },
+  {
+    "age": 40,
+    "sex": "female",
+    "bmi": 41.42,
+    "children": 1,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 28476.73499
+  },
+  {
+    "age": 19,
+    "sex": "female",
+    "bmi": 36.575,
+    "children": 0,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 2136.88225
+  },
+  {
+    "age": 18,
+    "sex": "male",
+    "bmi": 30.14,
+    "children": 0,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 1131.5066
+  },
+  {
+    "age": 25,
+    "sex": "male",
+    "bmi": 25.84,
+    "children": 1,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 3309.7926
+  },
+  {
+    "age": 46,
+    "sex": "female",
+    "bmi": 30.8,
+    "children": 3,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 9414.92
+  },
+  {
+    "age": 33,
+    "sex": "female",
+    "bmi": 42.94,
+    "children": 3,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 6360.9936
+  },
+  {
+    "age": 54,
+    "sex": "male",
+    "bmi": 21.01,
+    "children": 2,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 11013.7119
+  },
+  {
+    "age": 28,
+    "sex": "male",
+    "bmi": 22.515,
+    "children": 2,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 4428.88785
+  },
+  {
+    "age": 36,
+    "sex": "male",
+    "bmi": 34.43,
+    "children": 2,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 5584.3057
+  },
+  {
+    "age": 20,
+    "sex": "female",
+    "bmi": 31.46,
+    "children": 0,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 1877.9294
+  },
+  {
+    "age": 24,
+    "sex": "female",
+    "bmi": 24.225,
+    "children": 0,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 2842.76075
+  },
+  {
+    "age": 23,
+    "sex": "male",
+    "bmi": 37.1,
+    "children": 3,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 3597.596
+  },
+  {
+    "age": 47,
+    "sex": "female",
+    "bmi": 26.125,
+    "children": 1,
+    "smoker": "yes",
+    "region": "northeast",
+    "charges": 23401.30575
+  },
+  {
+    "age": 33,
+    "sex": "female",
+    "bmi": 35.53,
+    "children": 0,
+    "smoker": "yes",
+    "region": "northwest",
+    "charges": 55135.40209
+  },
+  {
+    "age": 45,
+    "sex": "male",
+    "bmi": 33.7,
+    "children": 1,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 7445.918
+  },
+  {
+    "age": 26,
+    "sex": "male",
+    "bmi": 17.67,
+    "children": 0,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 2680.9493
+  },
+  {
+    "age": 18,
+    "sex": "female",
+    "bmi": 31.13,
+    "children": 0,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 1621.8827
+  },
+  {
+    "age": 44,
+    "sex": "female",
+    "bmi": 29.81,
+    "children": 2,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 8219.2039
+  },
+  {
+    "age": 60,
+    "sex": "male",
+    "bmi": 24.32,
+    "children": 0,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 12523.6048
+  },
+  {
+    "age": 64,
+    "sex": "female",
+    "bmi": 31.825,
+    "children": 2,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 16069.08475
+  },
+  {
+    "age": 56,
+    "sex": "male",
+    "bmi": 31.79,
+    "children": 2,
+    "smoker": "yes",
+    "region": "southeast",
+    "charges": 43813.8661
+  },
+  {
+    "age": 36,
+    "sex": "male",
+    "bmi": 28.025,
+    "children": 1,
+    "smoker": "yes",
+    "region": "northeast",
+    "charges": 20773.62775
+  },
+  {
+    "age": 41,
+    "sex": "male",
+    "bmi": 30.78,
+    "children": 3,
+    "smoker": "yes",
+    "region": "northeast",
+    "charges": 39597.4072
+  },
+  {
+    "age": 39,
+    "sex": "male",
+    "bmi": 21.85,
+    "children": 1,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 6117.4945
+  },
+  {
+    "age": 63,
+    "sex": "male",
+    "bmi": 33.1,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 13393.756
+  },
+  {
+    "age": 36,
+    "sex": "female",
+    "bmi": 25.84,
+    "children": 0,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 5266.3656
+  },
+  {
+    "age": 28,
+    "sex": "female",
+    "bmi": 23.845,
+    "children": 2,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 4719.73655
+  },
+  {
+    "age": 58,
+    "sex": "male",
+    "bmi": 34.39,
+    "children": 0,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 11743.9341
+  },
+  {
+    "age": 36,
+    "sex": "male",
+    "bmi": 33.82,
+    "children": 1,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 5377.4578
+  },
+  {
+    "age": 42,
+    "sex": "male",
+    "bmi": 35.97,
+    "children": 2,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 7160.3303
+  },
+  {
+    "age": 36,
+    "sex": "male",
+    "bmi": 31.5,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 4402.233
+  },
+  {
+    "age": 56,
+    "sex": "female",
+    "bmi": 28.31,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 11657.7189
+  },
+  {
+    "age": 35,
+    "sex": "female",
+    "bmi": 23.465,
+    "children": 2,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 6402.29135
+  },
+  {
+    "age": 59,
+    "sex": "female",
+    "bmi": 31.35,
+    "children": 0,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 12622.1795
+  },
+  {
+    "age": 21,
+    "sex": "male",
+    "bmi": 31.1,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 1526.312
+  },
+  {
+    "age": 59,
+    "sex": "male",
+    "bmi": 24.7,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 12323.936
+  },
+  {
+    "age": 23,
+    "sex": "female",
+    "bmi": 32.78,
+    "children": 2,
+    "smoker": "yes",
+    "region": "southeast",
+    "charges": 36021.0112
+  },
+  {
+    "age": 57,
+    "sex": "female",
+    "bmi": 29.81,
+    "children": 0,
+    "smoker": "yes",
+    "region": "southeast",
+    "charges": 27533.9129
+  },
+  {
+    "age": 53,
+    "sex": "male",
+    "bmi": 30.495,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 10072.05505
+  },
+  {
+    "age": 60,
+    "sex": "female",
+    "bmi": 32.45,
+    "children": 0,
+    "smoker": "yes",
+    "region": "southeast",
+    "charges": 45008.9555
+  },
+  {
+    "age": 51,
+    "sex": "female",
+    "bmi": 34.2,
+    "children": 1,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 9872.701
+  },
+  {
+    "age": 23,
+    "sex": "male",
+    "bmi": 50.38,
+    "children": 1,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 2438.0552
+  },
+  {
+    "age": 27,
+    "sex": "female",
+    "bmi": 24.1,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 2974.126
+  },
+  {
+    "age": 55,
+    "sex": "male",
+    "bmi": 32.775,
+    "children": 0,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 10601.63225
+  },
+  {
+    "age": 37,
+    "sex": "female",
+    "bmi": 30.78,
+    "children": 0,
+    "smoker": "yes",
+    "region": "northeast",
+    "charges": 37270.1512
+  },
+  {
+    "age": 61,
+    "sex": "male",
+    "bmi": 32.3,
+    "children": 2,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 14119.62
+  },
+  {
+    "age": 46,
+    "sex": "female",
+    "bmi": 35.53,
+    "children": 0,
+    "smoker": "yes",
+    "region": "northeast",
+    "charges": 42111.6647
+  },
+  {
+    "age": 53,
+    "sex": "female",
+    "bmi": 23.75,
+    "children": 2,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 11729.6795
+  },
+  {
+    "age": 49,
+    "sex": "female",
+    "bmi": 23.845,
+    "children": 3,
+    "smoker": "yes",
+    "region": "northeast",
+    "charges": 24106.91255
+  },
+  {
+    "age": 20,
+    "sex": "female",
+    "bmi": 29.6,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 1875.344
+  },
+  {
+    "age": 48,
+    "sex": "female",
+    "bmi": 33.11,
+    "children": 0,
+    "smoker": "yes",
+    "region": "southeast",
+    "charges": 40974.1649
+  },
+  {
+    "age": 25,
+    "sex": "male",
+    "bmi": 24.13,
+    "children": 0,
+    "smoker": "yes",
+    "region": "northwest",
+    "charges": 15817.9857
+  },
+  {
+    "age": 25,
+    "sex": "female",
+    "bmi": 32.23,
+    "children": 1,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 18218.16139
+  },
+  {
+    "age": 57,
+    "sex": "male",
+    "bmi": 28.1,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 10965.446
+  },
+  {
+    "age": 37,
+    "sex": "female",
+    "bmi": 47.6,
+    "children": 2,
+    "smoker": "yes",
+    "region": "southwest",
+    "charges": 46113.511
+  },
+  {
+    "age": 38,
+    "sex": "female",
+    "bmi": 28,
+    "children": 3,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 7151.092
+  },
+  {
+    "age": 55,
+    "sex": "female",
+    "bmi": 33.535,
+    "children": 2,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 12269.68865
+  },
+  {
+    "age": 36,
+    "sex": "female",
+    "bmi": 19.855,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 5458.04645
+  },
+  {
+    "age": 51,
+    "sex": "male",
+    "bmi": 25.4,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 8782.469
+  },
+  {
+    "age": 40,
+    "sex": "male",
+    "bmi": 29.9,
+    "children": 2,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 6600.361
+  },
+  {
+    "age": 18,
+    "sex": "male",
+    "bmi": 37.29,
+    "children": 0,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 1141.4451
+  },
+  {
+    "age": 57,
+    "sex": "male",
+    "bmi": 43.7,
+    "children": 1,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 11576.13
+  },
+  {
+    "age": 61,
+    "sex": "male",
+    "bmi": 23.655,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 13129.60345
+  },
+  {
+    "age": 25,
+    "sex": "female",
+    "bmi": 24.3,
+    "children": 3,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 4391.652
+  },
+  {
+    "age": 50,
+    "sex": "male",
+    "bmi": 36.2,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 8457.818
+  },
+  {
+    "age": 26,
+    "sex": "female",
+    "bmi": 29.48,
+    "children": 1,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 3392.3652
+  },
+  {
+    "age": 42,
+    "sex": "male",
+    "bmi": 24.86,
+    "children": 0,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 5966.8874
+  },
+  {
+    "age": 43,
+    "sex": "male",
+    "bmi": 30.1,
+    "children": 1,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 6849.026
+  },
+  {
+    "age": 44,
+    "sex": "male",
+    "bmi": 21.85,
+    "children": 3,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 8891.1395
+  },
+  {
+    "age": 23,
+    "sex": "female",
+    "bmi": 28.12,
+    "children": 0,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 2690.1138
+  },
+  {
+    "age": 49,
+    "sex": "female",
+    "bmi": 27.1,
+    "children": 1,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 26140.3603
+  },
+  {
+    "age": 33,
+    "sex": "male",
+    "bmi": 33.44,
+    "children": 5,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 6653.7886
+  },
+  {
+    "age": 41,
+    "sex": "male",
+    "bmi": 28.8,
+    "children": 1,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 6282.235
+  },
+  {
+    "age": 37,
+    "sex": "female",
+    "bmi": 29.5,
+    "children": 2,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 6311.952
+  },
+  {
+    "age": 22,
+    "sex": "male",
+    "bmi": 34.8,
+    "children": 3,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 3443.064
+  },
+  {
+    "age": 23,
+    "sex": "male",
+    "bmi": 27.36,
+    "children": 1,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 2789.0574
+  },
+  {
+    "age": 21,
+    "sex": "female",
+    "bmi": 22.135,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 2585.85065
+  },
+  {
+    "age": 51,
+    "sex": "female",
+    "bmi": 37.05,
+    "children": 3,
+    "smoker": "yes",
+    "region": "northeast",
+    "charges": 46255.1125
+  },
+  {
+    "age": 25,
+    "sex": "male",
+    "bmi": 26.695,
+    "children": 4,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 4877.98105
+  },
+  {
+    "age": 32,
+    "sex": "male",
+    "bmi": 28.93,
+    "children": 1,
+    "smoker": "yes",
+    "region": "southeast",
+    "charges": 19719.6947
+  },
+  {
+    "age": 57,
+    "sex": "male",
+    "bmi": 28.975,
+    "children": 0,
+    "smoker": "yes",
+    "region": "northeast",
+    "charges": 27218.43725
+  },
+  {
+    "age": 36,
+    "sex": "female",
+    "bmi": 30.02,
+    "children": 0,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 5272.1758
+  },
+  {
+    "age": 22,
+    "sex": "male",
+    "bmi": 39.5,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 1682.597
+  },
+  {
+    "age": 57,
+    "sex": "male",
+    "bmi": 33.63,
+    "children": 1,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 11945.1327
+  },
+  {
+    "age": 64,
+    "sex": "female",
+    "bmi": 26.885,
+    "children": 0,
+    "smoker": "yes",
+    "region": "northwest",
+    "charges": 29330.98315
+  },
+  {
+    "age": 36,
+    "sex": "female",
+    "bmi": 29.04,
+    "children": 4,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 7243.8136
+  },
+  {
+    "age": 54,
+    "sex": "male",
+    "bmi": 24.035,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 10422.91665
+  },
+  {
+    "age": 47,
+    "sex": "male",
+    "bmi": 38.94,
+    "children": 2,
+    "smoker": "yes",
+    "region": "southeast",
+    "charges": 44202.6536
+  },
+  {
+    "age": 62,
+    "sex": "male",
+    "bmi": 32.11,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 13555.0049
+  },
+  {
+    "age": 61,
+    "sex": "female",
+    "bmi": 44,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 13063.883
+  },
+  {
+    "age": 43,
+    "sex": "female",
+    "bmi": 20.045,
+    "children": 2,
+    "smoker": "yes",
+    "region": "northeast",
+    "charges": 19798.05455
+  },
+  {
+    "age": 19,
+    "sex": "male",
+    "bmi": 25.555,
+    "children": 1,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 2221.56445
+  },
+  {
+    "age": 18,
+    "sex": "female",
+    "bmi": 40.26,
+    "children": 0,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 1634.5734
+  },
+  {
+    "age": 19,
+    "sex": "female",
+    "bmi": 22.515,
+    "children": 0,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 2117.33885
+  },
+  {
+    "age": 49,
+    "sex": "male",
+    "bmi": 22.515,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 8688.85885
+  },
+  {
+    "age": 60,
+    "sex": "male",
+    "bmi": 40.92,
+    "children": 0,
+    "smoker": "yes",
+    "region": "southeast",
+    "charges": 48673.5588
+  },
+  {
+    "age": 26,
+    "sex": "male",
+    "bmi": 27.265,
+    "children": 3,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 4661.28635
+  },
+  {
+    "age": 49,
+    "sex": "male",
+    "bmi": 36.85,
+    "children": 0,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 8125.7845
+  },
+  {
+    "age": 60,
+    "sex": "female",
+    "bmi": 35.1,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 12644.589
+  },
+  {
+    "age": 26,
+    "sex": "female",
+    "bmi": 29.355,
+    "children": 2,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 4564.19145
+  },
+  {
+    "age": 27,
+    "sex": "male",
+    "bmi": 32.585,
+    "children": 3,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 4846.92015
+  },
+  {
+    "age": 44,
+    "sex": "female",
+    "bmi": 32.34,
+    "children": 1,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 7633.7206
+  },
+  {
+    "age": 63,
+    "sex": "male",
+    "bmi": 39.8,
+    "children": 3,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 15170.069
+  },
+  {
+    "age": 32,
+    "sex": "female",
+    "bmi": 24.6,
+    "children": 0,
+    "smoker": "yes",
+    "region": "southwest",
+    "charges": 17496.306
+  },
+  {
+    "age": 22,
+    "sex": "male",
+    "bmi": 28.31,
+    "children": 1,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 2639.0429
+  },
+  {
+    "age": 18,
+    "sex": "male",
+    "bmi": 31.73,
+    "children": 0,
+    "smoker": "yes",
+    "region": "northeast",
+    "charges": 33732.6867
+  },
+  {
+    "age": 59,
+    "sex": "female",
+    "bmi": 26.695,
+    "children": 3,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 14382.70905
+  },
+  {
+    "age": 44,
+    "sex": "female",
+    "bmi": 27.5,
+    "children": 1,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 7626.993
+  },
+  {
+    "age": 33,
+    "sex": "male",
+    "bmi": 24.605,
+    "children": 2,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 5257.50795
+  },
+  {
+    "age": 24,
+    "sex": "female",
+    "bmi": 33.99,
+    "children": 0,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 2473.3341
+  },
+  {
+    "age": 43,
+    "sex": "female",
+    "bmi": 26.885,
+    "children": 0,
+    "smoker": "yes",
+    "region": "northwest",
+    "charges": 21774.32215
+  },
+  {
+    "age": 45,
+    "sex": "male",
+    "bmi": 22.895,
+    "children": 0,
+    "smoker": "yes",
+    "region": "northeast",
+    "charges": 35069.37452
+  },
+  {
+    "age": 61,
+    "sex": "female",
+    "bmi": 28.2,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 13041.921
+  },
+  {
+    "age": 35,
+    "sex": "female",
+    "bmi": 34.21,
+    "children": 1,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 5245.2269
+  },
+  {
+    "age": 62,
+    "sex": "female",
+    "bmi": 25,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 13451.122
+  },
+  {
+    "age": 62,
+    "sex": "female",
+    "bmi": 33.2,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 13462.52
+  },
+  {
+    "age": 38,
+    "sex": "male",
+    "bmi": 31,
+    "children": 1,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 5488.262
+  },
+  {
+    "age": 34,
+    "sex": "male",
+    "bmi": 35.815,
+    "children": 0,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 4320.41085
+  },
+  {
+    "age": 43,
+    "sex": "male",
+    "bmi": 23.2,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 6250.435
+  },
+  {
+    "age": 50,
+    "sex": "male",
+    "bmi": 32.11,
+    "children": 2,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 25333.33284
+  },
+  {
+    "age": 19,
+    "sex": "female",
+    "bmi": 23.4,
+    "children": 2,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 2913.569
+  },
+  {
+    "age": 57,
+    "sex": "female",
+    "bmi": 20.1,
+    "children": 1,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 12032.326
+  },
+  {
+    "age": 62,
+    "sex": "female",
+    "bmi": 39.16,
+    "children": 0,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 13470.8044
+  },
+  {
+    "age": 41,
+    "sex": "male",
+    "bmi": 34.21,
+    "children": 1,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 6289.7549
+  },
+  {
+    "age": 26,
+    "sex": "male",
+    "bmi": 46.53,
+    "children": 1,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 2927.0647
+  },
+  {
+    "age": 39,
+    "sex": "female",
+    "bmi": 32.5,
+    "children": 1,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 6238.298
+  },
+  {
+    "age": 46,
+    "sex": "male",
+    "bmi": 25.8,
+    "children": 5,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 10096.97
+  },
+  {
+    "age": 45,
+    "sex": "female",
+    "bmi": 35.3,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 7348.142
+  },
+  {
+    "age": 32,
+    "sex": "male",
+    "bmi": 37.18,
+    "children": 2,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 4673.3922
+  },
+  {
+    "age": 59,
+    "sex": "female",
+    "bmi": 27.5,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 12233.828
+  },
+  {
+    "age": 44,
+    "sex": "male",
+    "bmi": 29.735,
+    "children": 2,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 32108.66282
+  },
+  {
+    "age": 39,
+    "sex": "female",
+    "bmi": 24.225,
+    "children": 5,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 8965.79575
+  },
+  {
+    "age": 18,
+    "sex": "male",
+    "bmi": 26.18,
+    "children": 2,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 2304.0022
+  },
+  {
+    "age": 53,
+    "sex": "male",
+    "bmi": 29.48,
+    "children": 0,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 9487.6442
+  },
+  {
+    "age": 18,
+    "sex": "male",
+    "bmi": 23.21,
+    "children": 0,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 1121.8739
+  },
+  {
+    "age": 50,
+    "sex": "female",
+    "bmi": 46.09,
+    "children": 1,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 9549.5651
+  },
+  {
+    "age": 18,
+    "sex": "female",
+    "bmi": 40.185,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 2217.46915
+  },
+  {
+    "age": 19,
+    "sex": "male",
+    "bmi": 22.61,
+    "children": 0,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 1628.4709
+  },
+  {
+    "age": 62,
+    "sex": "male",
+    "bmi": 39.93,
+    "children": 0,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 12982.8747
+  },
+  {
+    "age": 56,
+    "sex": "female",
+    "bmi": 35.8,
+    "children": 1,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 11674.13
+  },
+  {
+    "age": 42,
+    "sex": "male",
+    "bmi": 35.8,
+    "children": 2,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 7160.094
+  },
+  {
+    "age": 37,
+    "sex": "male",
+    "bmi": 34.2,
+    "children": 1,
+    "smoker": "yes",
+    "region": "northeast",
+    "charges": 39047.285
+  },
+  {
+    "age": 42,
+    "sex": "male",
+    "bmi": 31.255,
+    "children": 0,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 6358.77645
+  },
+  {
+    "age": 25,
+    "sex": "male",
+    "bmi": 29.7,
+    "children": 3,
+    "smoker": "yes",
+    "region": "southwest",
+    "charges": 19933.458
+  },
+  {
+    "age": 57,
+    "sex": "male",
+    "bmi": 18.335,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 11534.87265
+  },
+  {
+    "age": 51,
+    "sex": "male",
+    "bmi": 42.9,
+    "children": 2,
+    "smoker": "yes",
+    "region": "southeast",
+    "charges": 47462.894
+  },
+  {
+    "age": 30,
+    "sex": "female",
+    "bmi": 28.405,
+    "children": 1,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 4527.18295
+  },
+  {
+    "age": 44,
+    "sex": "male",
+    "bmi": 30.2,
+    "children": 2,
+    "smoker": "yes",
+    "region": "southwest",
+    "charges": 38998.546
+  },
+  {
+    "age": 34,
+    "sex": "male",
+    "bmi": 27.835,
+    "children": 1,
+    "smoker": "yes",
+    "region": "northwest",
+    "charges": 20009.63365
+  },
+  {
+    "age": 31,
+    "sex": "male",
+    "bmi": 39.49,
+    "children": 1,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 3875.7341
+  },
+  {
+    "age": 54,
+    "sex": "male",
+    "bmi": 30.8,
+    "children": 1,
+    "smoker": "yes",
+    "region": "southeast",
+    "charges": 41999.52
+  },
+  {
+    "age": 24,
+    "sex": "male",
+    "bmi": 26.79,
+    "children": 1,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 12609.88702
+  },
+  {
+    "age": 43,
+    "sex": "male",
+    "bmi": 34.96,
+    "children": 1,
+    "smoker": "yes",
+    "region": "northeast",
+    "charges": 41034.2214
+  },
+  {
+    "age": 48,
+    "sex": "male",
+    "bmi": 36.67,
+    "children": 1,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 28468.91901
+  },
+  {
+    "age": 19,
+    "sex": "female",
+    "bmi": 39.615,
+    "children": 1,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 2730.10785
+  },
+  {
+    "age": 29,
+    "sex": "female",
+    "bmi": 25.9,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 3353.284
+  },
+  {
+    "age": 63,
+    "sex": "female",
+    "bmi": 35.2,
+    "children": 1,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 14474.675
+  },
+  {
+    "age": 46,
+    "sex": "male",
+    "bmi": 24.795,
+    "children": 3,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 9500.57305
+  },
+  {
+    "age": 52,
+    "sex": "male",
+    "bmi": 36.765,
+    "children": 2,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 26467.09737
+  },
+  {
+    "age": 35,
+    "sex": "male",
+    "bmi": 27.1,
+    "children": 1,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 4746.344
+  },
+  {
+    "age": 51,
+    "sex": "male",
+    "bmi": 24.795,
+    "children": 2,
+    "smoker": "yes",
+    "region": "northwest",
+    "charges": 23967.38305
+  },
+  {
+    "age": 44,
+    "sex": "male",
+    "bmi": 25.365,
+    "children": 1,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 7518.02535
+  },
+  {
+    "age": 21,
+    "sex": "male",
+    "bmi": 25.745,
+    "children": 2,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 3279.86855
+  },
+  {
+    "age": 39,
+    "sex": "female",
+    "bmi": 34.32,
+    "children": 5,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 8596.8278
+  },
+  {
+    "age": 50,
+    "sex": "female",
+    "bmi": 28.16,
+    "children": 3,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 10702.6424
+  },
+  {
+    "age": 34,
+    "sex": "female",
+    "bmi": 23.56,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 4992.3764
+  },
+  {
+    "age": 22,
+    "sex": "female",
+    "bmi": 20.235,
+    "children": 0,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 2527.81865
+  },
+  {
+    "age": 19,
+    "sex": "female",
+    "bmi": 40.5,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 1759.338
+  },
+  {
+    "age": 26,
+    "sex": "male",
+    "bmi": 35.42,
+    "children": 0,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 2322.6218
+  },
+  {
+    "age": 29,
+    "sex": "male",
+    "bmi": 22.895,
+    "children": 0,
+    "smoker": "yes",
+    "region": "northeast",
+    "charges": 16138.76205
+  },
+  {
+    "age": 48,
+    "sex": "male",
+    "bmi": 40.15,
+    "children": 0,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 7804.1605
+  },
+  {
+    "age": 26,
+    "sex": "male",
+    "bmi": 29.15,
+    "children": 1,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 2902.9065
+  },
+  {
+    "age": 45,
+    "sex": "female",
+    "bmi": 39.995,
+    "children": 3,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 9704.66805
+  },
+  {
+    "age": 36,
+    "sex": "female",
+    "bmi": 29.92,
+    "children": 0,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 4889.0368
+  },
+  {
+    "age": 54,
+    "sex": "male",
+    "bmi": 25.46,
+    "children": 1,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 25517.11363
+  },
+  {
+    "age": 34,
+    "sex": "male",
+    "bmi": 21.375,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 4500.33925
+  },
+  {
+    "age": 31,
+    "sex": "male",
+    "bmi": 25.9,
+    "children": 3,
+    "smoker": "yes",
+    "region": "southwest",
+    "charges": 19199.944
+  },
+  {
+    "age": 27,
+    "sex": "female",
+    "bmi": 30.59,
+    "children": 1,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 16796.41194
+  },
+  {
+    "age": 20,
+    "sex": "male",
+    "bmi": 30.115,
+    "children": 5,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 4915.05985
+  },
+  {
+    "age": 44,
+    "sex": "female",
+    "bmi": 25.8,
+    "children": 1,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 7624.63
+  },
+  {
+    "age": 43,
+    "sex": "male",
+    "bmi": 30.115,
+    "children": 3,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 8410.04685
+  },
+  {
+    "age": 45,
+    "sex": "female",
+    "bmi": 27.645,
+    "children": 1,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 28340.18885
+  },
+  {
+    "age": 34,
+    "sex": "male",
+    "bmi": 34.675,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 4518.82625
+  },
+  {
+    "age": 24,
+    "sex": "female",
+    "bmi": 20.52,
+    "children": 0,
+    "smoker": "yes",
+    "region": "northeast",
+    "charges": 14571.8908
+  },
+  {
+    "age": 26,
+    "sex": "female",
+    "bmi": 19.8,
+    "children": 1,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 3378.91
+  },
+  {
+    "age": 38,
+    "sex": "female",
+    "bmi": 27.835,
+    "children": 2,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 7144.86265
+  },
+  {
+    "age": 50,
+    "sex": "female",
+    "bmi": 31.6,
+    "children": 2,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 10118.424
+  },
+  {
+    "age": 38,
+    "sex": "male",
+    "bmi": 28.27,
+    "children": 1,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 5484.4673
+  },
+  {
+    "age": 27,
+    "sex": "female",
+    "bmi": 20.045,
+    "children": 3,
+    "smoker": "yes",
+    "region": "northwest",
+    "charges": 16420.49455
+  },
+  {
+    "age": 39,
+    "sex": "female",
+    "bmi": 23.275,
+    "children": 3,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 7986.47525
+  },
+  {
+    "age": 39,
+    "sex": "female",
+    "bmi": 34.1,
+    "children": 3,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 7418.522
+  },
+  {
+    "age": 63,
+    "sex": "female",
+    "bmi": 36.85,
+    "children": 0,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 13887.9685
+  },
+  {
+    "age": 33,
+    "sex": "female",
+    "bmi": 36.29,
+    "children": 3,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 6551.7501
+  },
+  {
+    "age": 36,
+    "sex": "female",
+    "bmi": 26.885,
+    "children": 0,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 5267.81815
+  },
+  {
+    "age": 30,
+    "sex": "male",
+    "bmi": 22.99,
+    "children": 2,
+    "smoker": "yes",
+    "region": "northwest",
+    "charges": 17361.7661
+  },
+  {
+    "age": 24,
+    "sex": "male",
+    "bmi": 32.7,
+    "children": 0,
+    "smoker": "yes",
+    "region": "southwest",
+    "charges": 34472.841
+  },
+  {
+    "age": 24,
+    "sex": "male",
+    "bmi": 25.8,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 1972.95
+  },
+  {
+    "age": 48,
+    "sex": "male",
+    "bmi": 29.6,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 21232.18226
+  },
+  {
+    "age": 47,
+    "sex": "male",
+    "bmi": 19.19,
+    "children": 1,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 8627.5411
+  },
+  {
+    "age": 29,
+    "sex": "male",
+    "bmi": 31.73,
+    "children": 2,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 4433.3877
+  },
+  {
+    "age": 28,
+    "sex": "male",
+    "bmi": 29.26,
+    "children": 2,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 4438.2634
+  },
+  {
+    "age": 47,
+    "sex": "male",
+    "bmi": 28.215,
+    "children": 3,
+    "smoker": "yes",
+    "region": "northwest",
+    "charges": 24915.22085
+  },
+  {
+    "age": 25,
+    "sex": "male",
+    "bmi": 24.985,
+    "children": 2,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 23241.47453
+  },
+  {
+    "age": 51,
+    "sex": "male",
+    "bmi": 27.74,
+    "children": 1,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 9957.7216
+  },
+  {
+    "age": 48,
+    "sex": "female",
+    "bmi": 22.8,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 8269.044
+  },
+  {
+    "age": 43,
+    "sex": "male",
+    "bmi": 20.13,
+    "children": 2,
+    "smoker": "yes",
+    "region": "southeast",
+    "charges": 18767.7377
+  },
+  {
+    "age": 61,
+    "sex": "female",
+    "bmi": 33.33,
+    "children": 4,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 36580.28216
+  },
+  {
+    "age": 48,
+    "sex": "male",
+    "bmi": 32.3,
+    "children": 1,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 8765.249
+  },
+  {
+    "age": 38,
+    "sex": "female",
+    "bmi": 27.6,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 5383.536
+  },
+  {
+    "age": 59,
+    "sex": "male",
+    "bmi": 25.46,
+    "children": 0,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 12124.9924
+  },
+  {
+    "age": 19,
+    "sex": "female",
+    "bmi": 24.605,
+    "children": 1,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 2709.24395
+  },
+  {
+    "age": 26,
+    "sex": "female",
+    "bmi": 34.2,
+    "children": 2,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 3987.926
+  },
+  {
+    "age": 54,
+    "sex": "female",
+    "bmi": 35.815,
+    "children": 3,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 12495.29085
+  },
+  {
+    "age": 21,
+    "sex": "female",
+    "bmi": 32.68,
+    "children": 2,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 26018.95052
+  },
+  {
+    "age": 51,
+    "sex": "male",
+    "bmi": 37,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 8798.593
+  },
+  {
+    "age": 22,
+    "sex": "female",
+    "bmi": 31.02,
+    "children": 3,
+    "smoker": "yes",
+    "region": "southeast",
+    "charges": 35595.5898
+  },
+  {
+    "age": 47,
+    "sex": "male",
+    "bmi": 36.08,
+    "children": 1,
+    "smoker": "yes",
+    "region": "southeast",
+    "charges": 42211.1382
+  },
+  {
+    "age": 18,
+    "sex": "male",
+    "bmi": 23.32,
+    "children": 1,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 1711.0268
+  },
+  {
+    "age": 47,
+    "sex": "female",
+    "bmi": 45.32,
+    "children": 1,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 8569.8618
+  },
+  {
+    "age": 21,
+    "sex": "female",
+    "bmi": 34.6,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 2020.177
+  },
+  {
+    "age": 19,
+    "sex": "male",
+    "bmi": 26.03,
+    "children": 1,
+    "smoker": "yes",
+    "region": "northwest",
+    "charges": 16450.8947
+  },
+  {
+    "age": 23,
+    "sex": "male",
+    "bmi": 18.715,
+    "children": 0,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 21595.38229
+  },
+  {
+    "age": 54,
+    "sex": "male",
+    "bmi": 31.6,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 9850.432
+  },
+  {
+    "age": 37,
+    "sex": "female",
+    "bmi": 17.29,
+    "children": 2,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 6877.9801
+  },
+  {
+    "age": 46,
+    "sex": "female",
+    "bmi": 23.655,
+    "children": 1,
+    "smoker": "yes",
+    "region": "northwest",
+    "charges": 21677.28345
+  },
+  {
+    "age": 55,
+    "sex": "female",
+    "bmi": 35.2,
+    "children": 0,
+    "smoker": "yes",
+    "region": "southeast",
+    "charges": 44423.803
+  },
+  {
+    "age": 30,
+    "sex": "female",
+    "bmi": 27.93,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 4137.5227
+  },
+  {
+    "age": 18,
+    "sex": "male",
+    "bmi": 21.565,
+    "children": 0,
+    "smoker": "yes",
+    "region": "northeast",
+    "charges": 13747.87235
+  },
+  {
+    "age": 61,
+    "sex": "male",
+    "bmi": 38.38,
+    "children": 0,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 12950.0712
+  },
+  {
+    "age": 54,
+    "sex": "female",
+    "bmi": 23,
+    "children": 3,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 12094.478
+  },
+  {
+    "age": 22,
+    "sex": "male",
+    "bmi": 37.07,
+    "children": 2,
+    "smoker": "yes",
+    "region": "southeast",
+    "charges": 37484.4493
+  },
+  {
+    "age": 45,
+    "sex": "female",
+    "bmi": 30.495,
+    "children": 1,
+    "smoker": "yes",
+    "region": "northwest",
+    "charges": 39725.51805
+  },
+  {
+    "age": 22,
+    "sex": "male",
+    "bmi": 28.88,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 2250.8352
+  },
+  {
+    "age": 19,
+    "sex": "male",
+    "bmi": 27.265,
+    "children": 2,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 22493.65964
+  },
+  {
+    "age": 35,
+    "sex": "female",
+    "bmi": 28.025,
+    "children": 0,
+    "smoker": "yes",
+    "region": "northwest",
+    "charges": 20234.85475
+  },
+  {
+    "age": 18,
+    "sex": "male",
+    "bmi": 23.085,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 1704.70015
+  },
+  {
+    "age": 20,
+    "sex": "male",
+    "bmi": 30.685,
+    "children": 0,
+    "smoker": "yes",
+    "region": "northeast",
+    "charges": 33475.81715
+  },
+  {
+    "age": 28,
+    "sex": "female",
+    "bmi": 25.8,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 3161.454
+  },
+  {
+    "age": 55,
+    "sex": "male",
+    "bmi": 35.245,
+    "children": 1,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 11394.06555
+  },
+  {
+    "age": 43,
+    "sex": "female",
+    "bmi": 24.7,
+    "children": 2,
+    "smoker": "yes",
+    "region": "northwest",
+    "charges": 21880.82
+  },
+  {
+    "age": 43,
+    "sex": "female",
+    "bmi": 25.08,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 7325.0482
+  },
+  {
+    "age": 22,
+    "sex": "male",
+    "bmi": 52.58,
+    "children": 1,
+    "smoker": "yes",
+    "region": "southeast",
+    "charges": 44501.3982
+  },
+  {
+    "age": 25,
+    "sex": "female",
+    "bmi": 22.515,
+    "children": 1,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 3594.17085
+  },
+  {
+    "age": 49,
+    "sex": "male",
+    "bmi": 30.9,
+    "children": 0,
+    "smoker": "yes",
+    "region": "southwest",
+    "charges": 39727.614
+  },
+  {
+    "age": 44,
+    "sex": "female",
+    "bmi": 36.955,
+    "children": 1,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 8023.13545
+  },
+  {
+    "age": 64,
+    "sex": "male",
+    "bmi": 26.41,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 14394.5579
+  },
+  {
+    "age": 49,
+    "sex": "male",
+    "bmi": 29.83,
+    "children": 1,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 9288.0267
+  },
+  {
+    "age": 47,
+    "sex": "male",
+    "bmi": 29.8,
+    "children": 3,
+    "smoker": "yes",
+    "region": "southwest",
+    "charges": 25309.489
+  },
+  {
+    "age": 27,
+    "sex": "female",
+    "bmi": 21.47,
+    "children": 0,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 3353.4703
+  },
+  {
+    "age": 55,
+    "sex": "male",
+    "bmi": 27.645,
+    "children": 0,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 10594.50155
+  },
+  {
+    "age": 48,
+    "sex": "female",
+    "bmi": 28.9,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 8277.523
+  },
+  {
+    "age": 45,
+    "sex": "female",
+    "bmi": 31.79,
+    "children": 0,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 17929.30337
+  },
+  {
+    "age": 24,
+    "sex": "female",
+    "bmi": 39.49,
+    "children": 0,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 2480.9791
+  },
+  {
+    "age": 32,
+    "sex": "male",
+    "bmi": 33.82,
+    "children": 1,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 4462.7218
+  },
+  {
+    "age": 24,
+    "sex": "male",
+    "bmi": 32.01,
+    "children": 0,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 1981.5819
+  },
+  {
+    "age": 57,
+    "sex": "male",
+    "bmi": 27.94,
+    "children": 1,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 11554.2236
+  },
+  {
+    "age": 59,
+    "sex": "male",
+    "bmi": 41.14,
+    "children": 1,
+    "smoker": "yes",
+    "region": "southeast",
+    "charges": 48970.2476
+  },
+  {
+    "age": 36,
+    "sex": "male",
+    "bmi": 28.595,
+    "children": 3,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 6548.19505
+  },
+  {
+    "age": 29,
+    "sex": "female",
+    "bmi": 25.6,
+    "children": 4,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 5708.867
+  },
+  {
+    "age": 42,
+    "sex": "female",
+    "bmi": 25.3,
+    "children": 1,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 7045.499
+  },
+  {
+    "age": 48,
+    "sex": "male",
+    "bmi": 37.29,
+    "children": 2,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 8978.1851
+  },
+  {
+    "age": 39,
+    "sex": "male",
+    "bmi": 42.655,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 5757.41345
+  },
+  {
+    "age": 63,
+    "sex": "male",
+    "bmi": 21.66,
+    "children": 1,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 14349.8544
+  },
+  {
+    "age": 54,
+    "sex": "female",
+    "bmi": 31.9,
+    "children": 1,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 10928.849
+  },
+  {
+    "age": 37,
+    "sex": "male",
+    "bmi": 37.07,
+    "children": 1,
+    "smoker": "yes",
+    "region": "southeast",
+    "charges": 39871.7043
+  },
+  {
+    "age": 63,
+    "sex": "male",
+    "bmi": 31.445,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 13974.45555
+  },
+  {
+    "age": 21,
+    "sex": "male",
+    "bmi": 31.255,
+    "children": 0,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 1909.52745
+  },
+  {
+    "age": 54,
+    "sex": "female",
+    "bmi": 28.88,
+    "children": 2,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 12096.6512
+  },
+  {
+    "age": 60,
+    "sex": "female",
+    "bmi": 18.335,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 13204.28565
+  },
+  {
+    "age": 32,
+    "sex": "female",
+    "bmi": 29.59,
+    "children": 1,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 4562.8421
+  },
+  {
+    "age": 47,
+    "sex": "female",
+    "bmi": 32,
+    "children": 1,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 8551.347
+  },
+  {
+    "age": 21,
+    "sex": "male",
+    "bmi": 26.03,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 2102.2647
+  },
+  {
+    "age": 28,
+    "sex": "male",
+    "bmi": 31.68,
+    "children": 0,
+    "smoker": "yes",
+    "region": "southeast",
+    "charges": 34672.1472
+  },
+  {
+    "age": 63,
+    "sex": "male",
+    "bmi": 33.66,
+    "children": 3,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 15161.5344
+  },
+  {
+    "age": 18,
+    "sex": "male",
+    "bmi": 21.78,
+    "children": 2,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 11884.04858
+  },
+  {
+    "age": 32,
+    "sex": "male",
+    "bmi": 27.835,
+    "children": 1,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 4454.40265
+  },
+  {
+    "age": 38,
+    "sex": "male",
+    "bmi": 19.95,
+    "children": 1,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 5855.9025
+  },
+  {
+    "age": 32,
+    "sex": "male",
+    "bmi": 31.5,
+    "children": 1,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 4076.497
+  },
+  {
+    "age": 62,
+    "sex": "female",
+    "bmi": 30.495,
+    "children": 2,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 15019.76005
+  },
+  {
+    "age": 39,
+    "sex": "female",
+    "bmi": 18.3,
+    "children": 5,
+    "smoker": "yes",
+    "region": "southwest",
+    "charges": 19023.26
+  },
+  {
+    "age": 55,
+    "sex": "male",
+    "bmi": 28.975,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 10796.35025
+  },
+  {
+    "age": 57,
+    "sex": "male",
+    "bmi": 31.54,
+    "children": 0,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 11353.2276
+  },
+  {
+    "age": 52,
+    "sex": "male",
+    "bmi": 47.74,
+    "children": 1,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 9748.9106
+  },
+  {
+    "age": 56,
+    "sex": "male",
+    "bmi": 22.1,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 10577.087
+  },
+  {
+    "age": 47,
+    "sex": "male",
+    "bmi": 36.19,
+    "children": 0,
+    "smoker": "yes",
+    "region": "southeast",
+    "charges": 41676.0811
+  },
+  {
+    "age": 55,
+    "sex": "female",
+    "bmi": 29.83,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 11286.5387
+  },
+  {
+    "age": 23,
+    "sex": "male",
+    "bmi": 32.7,
+    "children": 3,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 3591.48
+  },
+  {
+    "age": 22,
+    "sex": "female",
+    "bmi": 30.4,
+    "children": 0,
+    "smoker": "yes",
+    "region": "northwest",
+    "charges": 33907.548
+  },
+  {
+    "age": 50,
+    "sex": "female",
+    "bmi": 33.7,
+    "children": 4,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 11299.343
+  },
+  {
+    "age": 18,
+    "sex": "female",
+    "bmi": 31.35,
+    "children": 4,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 4561.1885
+  },
+  {
+    "age": 51,
+    "sex": "female",
+    "bmi": 34.96,
+    "children": 2,
+    "smoker": "yes",
+    "region": "northeast",
+    "charges": 44641.1974
+  },
+  {
+    "age": 22,
+    "sex": "male",
+    "bmi": 33.77,
+    "children": 0,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 1674.6323
+  },
+  {
+    "age": 52,
+    "sex": "female",
+    "bmi": 30.875,
+    "children": 0,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 23045.56616
+  },
+  {
+    "age": 25,
+    "sex": "female",
+    "bmi": 33.99,
+    "children": 1,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 3227.1211
+  },
+  {
+    "age": 33,
+    "sex": "female",
+    "bmi": 19.095,
+    "children": 2,
+    "smoker": "yes",
+    "region": "northeast",
+    "charges": 16776.30405
+  },
+  {
+    "age": 53,
+    "sex": "male",
+    "bmi": 28.6,
+    "children": 3,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 11253.421
+  },
+  {
+    "age": 29,
+    "sex": "male",
+    "bmi": 38.94,
+    "children": 1,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 3471.4096
+  },
+  {
+    "age": 58,
+    "sex": "male",
+    "bmi": 36.08,
+    "children": 0,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 11363.2832
+  },
+  {
+    "age": 37,
+    "sex": "male",
+    "bmi": 29.8,
+    "children": 0,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 20420.60465
+  },
+  {
+    "age": 54,
+    "sex": "female",
+    "bmi": 31.24,
+    "children": 0,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 10338.9316
+  },
+  {
+    "age": 49,
+    "sex": "female",
+    "bmi": 29.925,
+    "children": 0,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 8988.15875
+  },
+  {
+    "age": 50,
+    "sex": "female",
+    "bmi": 26.22,
+    "children": 2,
+    "smoker": "no",
+    "region": "northwest",
+    "charges": 10493.9458
+  },
+  {
+    "age": 26,
+    "sex": "male",
+    "bmi": 30,
+    "children": 1,
+    "smoker": "no",
+    "region": "southwest",
+    "charges": 2904.088
+  },
+  {
+    "age": 45,
+    "sex": "male",
+    "bmi": 20.35,
+    "children": 3,
+    "smoker": "no",
+    "region": "southeast",
+    "charges": 8605.3615
+  },
+  {
+    "age": 54,
+    "sex": "female",
+    "bmi": 32.3,
+    "children": 1,
+    "smoker": "no",
+    "region": "northeast",
+    "charges": 11512.405
+  },
+  {
+    "age": 38,
+    "sex": "male",
+    "bmi": 38.39,
+    "children": 3,
+    "smoker": "yes",
+    "region": "southeast",
+    "charges": 41949.2441
+  }
+]

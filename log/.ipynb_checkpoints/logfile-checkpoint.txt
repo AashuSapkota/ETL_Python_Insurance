@@ -1,0 +1,8 @@
+2023-09-11 21:00:13.336512, ETL Job Started
+2023-09-11 21:00:13.336598, Extracting Data
+2023-09-11 21:00:13.441058, Data Extraction Completed
+2023-09-11 21:00:13.441146, Transforming Data
+2023-09-11 21:00:13.443042, Data Transformation Completedd
+2023-09-11 21:00:13.443089, Loading Data
+2023-09-11 21:00:13.514983, Data Loaded
+2023-09-11 21:00:13.515087, ETL Job Completed
